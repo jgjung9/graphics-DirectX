@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+DirectX/Engine/x64
+DirectX/.vs
+DirectX/Output
+DirectX/Client/x64
+DirectX/x64
